@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+    text-align: center;
+  }
+  
+p {
+    font-family: verdana;
+    width: 85%! important;
+    text-align: justify;
+    margin:0px 0px 61px 98px;
+    padding-top: 32px;
+  }
+.linkColor {
+    color:red;
+    text-decoration: none;
+}
+
+/* .imgPosition{
+    margin:0 0 41px 0px; 
+} */
+
+.box1{
+    width:400px;
+    height:350px;
+    background:green;
+    float:left;
+    padding:0px 0px 0px 93px;
+}
+
+.box2{
+    width:400px;
+    height:237px;
+    background:green;
+    float:right;
+    padding:113px 99px 0px 65px;
+}
+
+.insideBox{
+    background-color: aquamarine;
+}
+
+hr{color:red;
+margin: 68px 99px;
+}
+
+#kotak1 {
+    background-color: white;
+    width:85%! important;
+    margin:0px 0px 61px 98px;
+    height:500px;
+}
+
